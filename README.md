@@ -1,4 +1,4 @@
-***CivilChangelog***
+***Civil Changelog***
 
 #### Changelog, issue tracker, and forum for Civil Proxy [https://github.com/Quartinal/CivilBackend]
 
