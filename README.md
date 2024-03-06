@@ -9,3 +9,7 @@
 ### **Changelog for 3/4/24**
 
 - Added settings panel kind of like at https://interstellar-iota-jade.vercel.app/diagnostic
+
+### **Changelog for 3/5/24**
+
+- Fixed detour.js issues
