@@ -13,3 +13,7 @@
 ### **Changelog for 3/5/24**
 
 - Fixed detour.js issues
+
+### **Changelog for 3/8/24**
+
+- Announced Falcon Search in README
