@@ -25,3 +25,7 @@
 ### **Changelog for 3/23/24**
 
 - Updated UV to match directories of repo
+
+### **Changelog for 4/14/24**
+
+- 12 commits on the new static version of Civil!
